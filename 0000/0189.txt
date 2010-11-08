@@ -1395,11 +1395,19 @@ Tough trainer!\xf000븁\x0000Let me heal your\xfffePokémon for you!\xf000븁\x0
 In and around Yaguruma Forest\xfffeare many Pokémon with moves\xf000븀\x0000that cause effects like poison.\xf000븁\x0000You need anything, come to me!
 Even badder!
 Vrrrrroom!!
+<<<<<<< HEAD
 Hrmmm...?!\xfffeYOU'RE here?\xf000븁\x0000
 Your power exceeds\xfffemy psychic ability!
 The Musharna that appears here\xfffeFriday every week\xf000븀\x0000is said to be somehow unique.
 This is a spot of power!\xf000븁\x0000Let the power within\xfffeawaken in us both!\xf000븁\x0000
 Was I standing\xfffein the wrong spot?!
+=======
+Hrmmm...?!\xfffeYOU appeared?\xf000븁\x0000
+Your power exceeds\xfffemy psychic ability!
+The Musharna that appears here\xfffeFriday every week\xf000븀\x0000is said to be somehow unique.
+This is a spot of power!\xf000븁\x0000Let the power within\xfffeawaken in us both!\xf000븁\x0000
+Was  I standing\xfffein the wrong spot?!
+>>>>>>> 5aca7d0f8c00203cdb0b6041b9269f985a42ab64
 In reality, everyone has\xfffesome Dream Smoke!\xf000븁\x0000When you realize your dreams,\xfffeisn't that just like Dream Smoke?!
 Yipe! I was trying to\xfffepredict your movement and run...!\xf000븁\x0000
 Yipe! I was trying to\xfffepredict your thoughts, but I lost!
@@ -1415,7 +1423,11 @@ No! I can't see any dreams\xfffefrom the pits of defeat!
 The Dream Smoke\xfffefrom the Pokémon Musharna...\xf000븁\x0000Its secrets haven't been fully revealed,\xfffebut it's definitely amazingly powerful!
 I want to explain the\xfffemysterious powers of psychics!\xf000븁\x0000
 But I fought in such\xfffea logical manner!
+<<<<<<< HEAD
 Only about half of the world\xfffecan be explained through logic...\xf000븁\x0000The rest is feeling!\xfffeWhich is why it's so full of mystery...
+=======
+Only about half of the world\xfffecan be explained through logic...\xf000븁\x0000The rest is feeling!\xfffeWhich it's so full of mystery...
+>>>>>>> 5aca7d0f8c00203cdb0b6041b9269f985a42ab64
 Boku no kokoro ni boku-tachi no\xfffedeai wo kizamu tame ni\xf000븀\x0000anata to shoubu wo morau kudasai.\xf000븁\x0000
 Sono shougeki...\xfffeZettai wasurenai!
 Mita keshiki mo...\xfffeDeai shita hito mo...\xf000븀\x0000Waza wo tsukatta Pokémon mo...\xf000븁\x0000Kioku ni sorera wo kizamu.
@@ -1526,8 +1538,13 @@ La strada percorsa non si cambia!\xf000븁\x0000Ma su quella da percorrere\xfffe
 あなたたちの たくましさに\xfffeけいいを ひょうして これを！\xf000븁\x0000
 ポケシフターで やってきた\xfffeべつの ちほうの ポケモンが\xf000븀\x0000にげだしていないか みているの
 This place isn't in the guidebook...\xfffeI like to search places like that!\xf000븁\x0000
+<<<<<<< HEAD
 Your strength...!\xfffeI want it in the guidebook!
 A journey of new discoveries!\xfffeThat's my theme.\xf000븁\x0000For example, see that big rock?\xfffeYou can push it with Strength!
+=======
+Your strength...!\xfffeIt want it in the guidebook!
+A journey of new discoveries!\xfffeThat's my theme.\xf000븁\x0000For example, see that big rock!\xfffeYou can push it with Strength!
+>>>>>>> 5aca7d0f8c00203cdb0b6041b9269f985a42ab64
 So there's a peaceful place here,\xfffeside-by-side with a big city...\xf000븁\x0000Whoa! But somehow, it stirs me\xfffeinto a battling mood!\xf000븁\x0000
 Whew...\xfffeI've calmed down now.
 Pokémon are calmed\xfffeby nature too, surely?\xf000븁\x0000Or do they actually prefer\xfffethe flashiness of the city?
@@ -1723,8 +1740,13 @@ The balance of three...\xfffeIndividual duties...\xf000븀\x0000I still need to 
 ひょっとして あなた\xfffeローテーションバトルの てんさい！？
 よければ おともだちとも\xfffeローテーションバトルを してみてね
 You're such a figurative thorn in our\xfffemagnificent plan's metaphorical side!
+<<<<<<< HEAD
 So you're... the trainer\xfffeLord N was smitten with!\xf000븁\x0000
 How are you any different\xfffefrom all the other trainers?
+=======
+So you're...\xfffethe trainer Lord N was smitten with!\xf000븁\x0000
+Aren't you the same\xfffeas that other trainer?
+>>>>>>> 5aca7d0f8c00203cdb0b6041b9269f985a42ab64
 Lord N was raised\xfffetogether with Pokémon...\xf000븁\x0000He puts Pokémon in his thoughts\xfffemore than anybody, period!
 Those who oppose Team Plasma\xfffeget shown a world of pain!\xf000븁\x0000
 Owww, OWWW!\xfffeMy Pokémon are in pain!
